@@ -1,3 +1,9 @@
+Auth0 and github API have been used in this application.
+Installation of Auth0 and React-bootstrap can be done using npm.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
