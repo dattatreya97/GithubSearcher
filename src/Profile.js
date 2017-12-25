@@ -16,7 +16,7 @@ class Profile extends Component {
       return(
         <div className="notfound">
           <h2>Hey</h2>
-          <p>Are you sure, for whom you are looking for ???</p>
+          <p>Are you sure who you are looking for ???</p>
         </div>
       );
     }
